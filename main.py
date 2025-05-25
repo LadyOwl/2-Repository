@@ -3,6 +3,11 @@ def area_circle(r):
     return S
 
 
+def area_sqare(a):
+    S_s = a**2
+    return S_s
+
+
 
 
 
